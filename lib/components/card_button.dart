@@ -21,6 +21,7 @@ class CardButton extends StatelessWidget {
           height: 42.0,
           child: Text(
             label,
+            style: TextStyle(color: Colors.white),
           ),
         ),
       ),
